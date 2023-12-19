@@ -2,7 +2,7 @@
 # DateTimeNr Library README
 
 ## Overview
-DateTimeNr is a specialized library tailored for Noir, a language designed for zero-knowledge proofs (ZKPs). Essential in blockchain and cryptographic applications, it offers precise and efficient handling of date and time data.
+DateTimeNr is a specialized library tailored for Noir. Essential in blockchain and cryptographic applications, it offers precise and efficient handling of date and time data.
 
 ## Features
 - **Structures for Date and Time:** Well-defined structures for dates, times, and combined datetime.
