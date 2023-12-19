@@ -1,3 +1,4 @@
+![Date Time Image](datetimenr.png)
 # DateTimeNr Library README
 
 ## Overview
